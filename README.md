@@ -24,15 +24,20 @@ Step 5: Test the model by using a webcam.
 
 # Use Cases: 
 
-> Diagnosis Depression.
+ Diagnosis Depression.
 
-> Check Employee Stress.
+ Check Employee Stress.
 
-> Student reaction in classes.
+ Student reaction in classes.
 
->Online/live gaming experience.
+ Online/live gaming experience.
 
 # Output Images:
 
+<img src="Document/1.png">
+
+-------------------------------------------------------------------------------------------------------------------------------------------
+
+<img src="Document/2.png">
 
 
