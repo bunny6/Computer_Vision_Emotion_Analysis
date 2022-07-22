@@ -22,3 +22,17 @@ Step 5: Test the model by using a webcam.
 
 <img src="Document/flow_chart.png">
 
+# Use Cases: 
+
+> Diagnosis Depression.
+
+> Check Employee Stress.
+
+> Student reaction in classes.
+
+>Online/live gaming experience.
+
+# Output Images:
+
+
+
