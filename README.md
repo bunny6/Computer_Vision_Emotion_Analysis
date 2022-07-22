@@ -20,3 +20,5 @@ Step 5: Test the model by using a webcam.
 
 # Flow_chart :
 
+<img src="Documents/flow_chart.png">
+
